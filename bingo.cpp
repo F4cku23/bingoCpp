@@ -17,7 +17,6 @@
 #define med_bolilla 14
 #define max_num 90
 
-
 //using namespace System;
 using namespace std;
 
